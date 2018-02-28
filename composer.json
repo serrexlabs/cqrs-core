@@ -1,0 +1,11 @@
+{
+    "name": "serrexlabs/cqrs-core",
+    "authors": [
+        {
+            "name": "Sanath Samarasinghe",
+            "email": "sanath@serrexlabs.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
